@@ -6,3 +6,12 @@ the same image to make them disappear. If he selects 2 tiles with different colo
 and user proceeds with the next round. The game is considered to be over when all of the tiles are opened.
 ## Used technologies
 pure JavaScript
+## App directory Layout
+```
+JS/
+  data.js
+  mainCode.js
+CSS/
+  style.css
+tile.html
+```
